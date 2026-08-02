@@ -26,8 +26,9 @@
     <script>
       (function () {
         var saved = localStorage.getItem("konsulfitTheme");
-        if (saved === "light") return;
+        if (saved === "dark") {
         document.documentElement.classList.add("dark");
+        }
       })();
     </script>
     <div id="root"></div>
