@@ -1,5 +1,5 @@
 // Ganti dengan nomor WhatsApp resmi layanan Anda (format internasional, tanpa "+" atau "00")
-export const WHATSAPP_NUMBER = "6281290100904";
+export const WHATSAPP_NUMBER = "6287890281655";
 
 // Email tujuan untuk form kontak (dipakai sebagai fallback mailto:)
 export const CONTACT_EMAIL = "ciloysky@gmail.com";
